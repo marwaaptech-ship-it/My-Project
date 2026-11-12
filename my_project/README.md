@@ -31,3 +31,5 @@ You can also replace the sample project cards with screenshots or links to your 
 The main theme colours are defined at the top of `style.css` using CSS variables. Google Fonts are loaded online, so an internet connection is needed for those fonts; the site still works with fallback fonts offline.
 
 Made as an editable starter portfolio.
+
+why is it necessary to upload on github
